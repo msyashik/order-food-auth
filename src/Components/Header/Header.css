@@ -1,0 +1,14 @@
+nav {
+  background-color: rgb(6, 6, 97);
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2%;
+  padding: 1%;
+}
+li {
+  margin-left: 2%;
+  list-style-type: none;
+}
